@@ -1,0 +1,6 @@
+{
+  "name": "node-endpoint-uptime-watcher",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/monitor.js"
+}
